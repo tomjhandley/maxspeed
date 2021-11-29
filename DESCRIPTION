@@ -10,7 +10,10 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
-Imports: bookdown,
-    here
+Imports: 
+    bookdown,
+    dplyr,
+    here,
+    readxl
 Suggests: devtools,
     git2r
